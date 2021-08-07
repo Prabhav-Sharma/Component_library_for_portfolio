@@ -83,6 +83,7 @@ hr {
 
 .hero {
     padding: 2rem;
+    padding-top: 4rem;
 }
 
 .hero-image {
@@ -133,5 +134,12 @@ hr {
 .social-links{
     padding-inline-start: 0px;
 }
+
+.footer-header{
+    font-weight: bold;
+    font-size: large;
+
+}
+
 
 
