@@ -1,2 +1,2 @@
-# Component_library_for_portfolio
-This contains the code for the component library :HTML
+# Component library for portfolio
+This contains the code for the component library used to create my portfolio
